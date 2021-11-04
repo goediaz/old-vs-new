@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainContainer {
+  flex-direction: column;
+}
+
+#texto {
+
+}
+
+button {
+  background-color:cadetblue;
+  color: white;
+  height: 75px;
+  margin-right: 20px;
+}
+
+button.coralButton {
+  background-color: lightcoral;
+}
+
+.redButton {
+  background-color: red;
+}
